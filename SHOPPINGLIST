@@ -1,0 +1,12 @@
+var total = 450;
+var minus = 40;
+
+
+var good= total - minus;
+var bad = total - good;
+var half = total - bad;
+
+
+console.log("good" + total)
+console.log("bad" + bad)
+console.log("half" + half)
